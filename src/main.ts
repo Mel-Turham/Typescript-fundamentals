@@ -30,6 +30,20 @@
 
 // import './08-tuples/01-tuples-basics'
 
-import './09-Enum/01-enum-basics';
+// Enum type
+// import './09-Enum/01-enum-basics';
 
-import './09-Enum/02-enum-challenge';
+// import './09-Enum/02-enum-challenge';
+
+
+// type unknown
+
+// import './10-Types-unknown/01-unknown-basics'
+
+// type never
+
+import './11-type-never/01-type-never-basics'
+
+// Es6 module {import and export }
+
+import './12-Es6/01-es6-module'
