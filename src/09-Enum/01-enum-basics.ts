@@ -1,6 +1,7 @@
 enum ServerResponseStatus {
-	Success,
-	Error,
+	Success = 200,
+	Error = 'Error',
+	Status = 400,
 }
 
 console.log(ServerResponseStatus);
@@ -12,9 +13,10 @@ interface ServerResponse {
 
 function getServerResponse(): ServerResponse {
 	return {
-		result: ServerResponseStatus.Success,
+		result: ServerResponseStatus.Status,
 		data: ['First item', 'second items'],
 	};
 }
 
-
+const response = getServerResponse();
+console.log(response.result);

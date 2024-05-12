@@ -30,4 +30,6 @@
 
 // import './08-tuples/01-tuples-basics'
 
-import './09-Enum/01-enum-basics'
+import './09-Enum/01-enum-basics';
+
+import './09-Enum/02-enum-challenge';
