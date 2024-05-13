@@ -47,3 +47,7 @@ import './11-type-never/01-type-never-basics'
 // Es6 module {import and export }
 
 import './12-Es6/01-es6-module'
+
+// type guard
+
+import './13-type-Guarding/01-type-of-guard'

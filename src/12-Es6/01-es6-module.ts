@@ -8,3 +8,4 @@ function doubleNumber(...argNumber: number[]): number[] {
 }
 console.log(doubleNumber(1, 3, 4, 5, 5, 6, 6));
 
+ 
