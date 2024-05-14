@@ -1,1 +1,1 @@
-import './19-classes/01-classes-basics'
+import './19-classes/02-classes-chortcut'
