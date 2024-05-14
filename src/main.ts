@@ -1,1 +1,1 @@
-import './19-classes/03-classes-getters-and-setters'
+import './19-classes/04-interfaces-in-classes'
