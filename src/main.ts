@@ -1,1 +1,1 @@
-import './17-Fetch-Data/01-fetch-data-basics'
+import './19-classes/01-classes-basics'
